@@ -23,7 +23,7 @@ Working on ERP software maintenance and development using C#, .NET, SQL Server, 
 
 ---
 
-## 🚀 Main Project
+## 🚀 Projects in Development
 
 ### Restaurant Management App
 
@@ -35,7 +35,6 @@ A full-stack web application for managing restaurants, users and bookings, built
 - SQL Server
 - React + Vite
 - Repository Pattern
-- EF Core Migrations
 
 #### Main Features
 - User registration and authentication
@@ -50,6 +49,33 @@ This is currently the project that best represents my skills and the technologie
 
 **Repository:**  
 [Restaurant Management App](https://github.com/AleDegia/c-OreilyExcercises/tree/entityFramework/39_ProgettoGestioneRistorantiWeb)
+
+
+ ### Food Ordering System
+
+  A web application for browsing a menu, managing a shopping cart, placing food orders and managing a user profile, built with ASP.NET Core MVC.
+
+  #### Tech Stack
+
+  - ASP.NET Core MVC
+  - Entity Framework Core
+  - SQL Server
+  - Razor Views
+  - Bootstrap
+  - Session-based cart
+
+  #### Main Features
+
+  - User registration, login and profile management
+  - Password change and account deletion
+  - Menu browsing by category
+  - Shopping cart management
+  - Checkout and order creation
+  - Relational database design
+  - CRUD operations
+
+  **Repository:**
+  [Food Ordering System](https://github.com/AleDegia/food-ordering-system)
 
 ---
 
