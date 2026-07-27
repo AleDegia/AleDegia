@@ -17,7 +17,7 @@ This GitHub profile documents both my learning journey and my personal projects,
 
 ## 💼 Current Position
 
-Software Developer at **Zucchetti Srl**. (ex Edisoftware)
+Software Developer at **Zucchetti Spa**. (ex Edisoftware Srl)
 
 Working on ERP software maintenance and development using C#, .NET, SQL Server, Windows Forms and DevExpress while gaining experience with enterprise software architectures.
 
