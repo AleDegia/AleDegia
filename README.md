@@ -163,6 +163,6 @@ Topics include:
 
 ## 🎯 Goals
 
-My goal is to become a backend developer specialized in the .NET ecosystem while continuing to improve my frontend skills with React.
+My goal is to improve my skills as a backend developer specialized in the .NET ecosystem while continuing to learn frontend with React and bootstrap.
 
 I'm interested in building scalable web applications, writing clean and maintainable code, and continuously improving as a software developer.
