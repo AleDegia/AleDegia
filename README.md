@@ -25,35 +25,9 @@ Working on ERP software maintenance and development using C#, .NET, SQL Server, 
 
 ## 🚀 Projects in Development
 
-### Restaurant Management App
+### Food Ordering System
 
-A full-stack web application for managing restaurants, users and bookings, built with ASP.NET Core and React.
-
-#### Tech Stack
-- ASP.NET Core Web API
-- Entity Framework Core
-- SQL Server
-- React + Vite
-- Repository Pattern
-
-#### Main Features
-- User registration and authentication
-- Restaurant management
-- Booking management
-- RESTful API
-- Relational database design
-- CRUD operations
-- React frontend
-
-This is currently the project that best represents my skills and the technologies I enjoy working with.
-
-**Repository:**  
-[Restaurant Management App](https://github.com/AleDegia/c-OreilyExcercises/tree/entityFramework/39_ProgettoGestioneRistorantiWeb)
-
-
- ### Food Ordering System
-
-  A web application for browsing a menu, managing a shopping cart, placing food orders and managing a user profile, built with ASP.NET Core MVC.
+  A monolithic web application for browsing a menu, managing a shopping cart, placing food orders and managing a user profile, built with ASP.NET Core MVC.
 
   #### Tech Stack
 
@@ -74,8 +48,40 @@ This is currently the project that best represents my skills and the technologie
   - Relational database design
   - CRUD operations
 
+   This is my most complete project so far and best represents the skills and technologies I am familiar with.
+
   **Repository:**
   [Food Ordering System](https://github.com/AleDegia/food-ordering-system)
+<br>
+<br>
+<br>
+  
+
+### Restaurant Management App
+
+A full-stack web application for managing restaurants, users and bookings, built with ASP.NET Core and React.
+
+#### Tech Stack
+- ASP.NET Core Web API
+- Entity Framework Core
+- SQL Server
+- React + Vite
+- Repository Pattern
+
+#### Main Features
+- User registration and authentication
+- Restaurant management
+- Booking management
+- RESTful API
+- Relational database design
+- CRUD operations
+- React frontend
+
+This project focuses on building a full-stack client-server application with an ASP.NET Core Web API backend, a React frontend, and a layered
+architecture.
+
+**Repository:**  
+[Restaurant Management App](https://github.com/AleDegia/c-OreilyExcercises/tree/entityFramework/39_ProgettoGestioneRistorantiWeb)
 
 ---
 
